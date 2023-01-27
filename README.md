@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on a [Gamified Resume](https://github.com/Jeshuapillay/JeshuaLeonardPillayWebResume.github.io)
 
-- 🌱 I’m currently learning **Javascript Canvas**
-
 - 💬 Ask me about **Web and Software development**
 
 - 📫 How to reach me **jeshuapillay@gmail.com**
