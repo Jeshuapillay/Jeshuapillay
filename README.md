@@ -29,6 +29,7 @@
 <h3 align="left">Additional Academic Modules:</h3>
 <ul>
   <li>Database Systems</li>
+  <li>Mobile App Development</li>
   <li>Artificial Intelligence</li>
   <li>Mathematics</li>
   <li>Information Systems</li>
@@ -36,6 +37,7 @@
   <li>Big Data & IoT</li>
   <li>Cloud Computing</li>
   <li>IT Project Management</li>
+  <li>Networking</li>
   <li>Cyber Security</li>
 </ul>
 
