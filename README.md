@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
 
 <h1 align="center">Hi 👋, I'm Jeshua Leonard Pillay</h1>
-<h3 align="center">Aspiring Web and Software Developer from South Africa!</h3>
+<h3 align="center">Backend Software Developer from South Africa!</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" >
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a [Gamified Resume](https://github.com/Jeshuapillay/JeshuaLeonardPillayWebResume.github.io)
 
-- 💬 Ask me about **Web and Software development**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me **jeshuapillay@gmail.com**
 
