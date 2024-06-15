@@ -1,6 +1,6 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
 
-<h1 align="center">Hi 👋, I'm Jeshua Leonard Pillay</h1>
+<h1 align="center">Hi 👋, I'm Jeshua Pillay</h1>
 <h3 align="center">Backend Software Developer from South Africa!</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" >
