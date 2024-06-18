@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a [Gamified Resume](https://github.com/Jeshuapillay/JeshuaLeonardPillayWebResume.github.io)
+- 🔭 I’m currently working on an [Educational Mobile Application](https://github.com/Jeshuapillay/JeshuaLeonardPillayWebResume.github.io)
 
 - 💬 Ask me about **Software development**
 
